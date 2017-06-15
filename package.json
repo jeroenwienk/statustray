@@ -1,0 +1,24 @@
+{
+  "name": "statustray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeroenwienk/statustray.git"
+  },
+  "author": "jeroenwienk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeroenwienk/statustray/issues"
+  },
+  "homepage": "https://github.com/jeroenwienk/statustray#readme",
+  "source": "https://github.com/StephenGrider/ElectronCode/tree/master/completed_code/tasky"
+}
